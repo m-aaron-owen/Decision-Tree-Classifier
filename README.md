@@ -2,7 +2,7 @@
 
 A small machine learning project I put together using my PhD data using Python.
 
-I have more than a dozen bodily measurements from about 150 male and 110 female mongooses from five locations around the
+I have more than a dozen body measurements from about 150 male and 110 female mongooses from five locations around the
 world. These five locations can be separated into two groups: the native range (India) and the introduced range 
 (Jamaica, Hawaii, St. Croix, and Mauritius). I wanted to investigate if one or more traits could be used to determine the 
 origin of an individual, so I set up a decision tree classifier for each sex. 
